@@ -10,7 +10,7 @@ require (
 	github.com/fxamacker/cbor/v2 v2.9.4
 	github.com/gliderlabs/ssh v0.3.8
 	github.com/lxzan/gws v1.10.2
-	github.com/nicholas-fedor/shoutrrr v0.21.0
+	github.com/nicholas-fedor/shoutrrr v0.21.2
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/pocketbase/dbx v1.12.0
 	github.com/pocketbase/pocketbase v0.40.4
@@ -26,6 +26,7 @@ require (
 	golang.org/x/sys v0.48.0
 	gopkg.in/yaml.v3 v3.0.1
 	howett.net/plist v1.0.1
+	modernc.org/sqlite v1.57.0
 )
 
 require (
@@ -64,7 +65,7 @@ require (
 	golang.org/x/sync v0.23.0 // indirect
 	golang.org/x/term v0.46.0 // indirect
 	golang.org/x/text v0.42.0 // indirect
-	golang.org/x/tools v0.50.0 // indirect
+	golang.org/x/tools v0.51.0 // indirect
 	mellium.im/reader v0.1.0 // indirect
 	mellium.im/sasl v0.3.2 // indirect
 	mellium.im/xmlstream v0.15.4 // indirect
@@ -72,5 +73,4 @@ require (
 	modernc.org/libc v1.74.4 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.12.1 // indirect
-	modernc.org/sqlite v1.57.0 // indirect
 )
